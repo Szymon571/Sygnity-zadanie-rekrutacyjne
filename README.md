@@ -40,7 +40,7 @@ W projekcie zależało mi głównie na:
 
 ## Stack technologiczny
 
-- PHP 8.3+
+- PHP 8.4+
 - Laravel 13
 - Livewire 4 + Flux UI
 - Tailwind CSS 4
@@ -54,7 +54,7 @@ W projekcie zależało mi głównie na:
 
 ## Wymagania
 
-- PHP 8.3+
+- PHP 8.4+
 - Composer
 - Node.js + npm
 - MySQL
@@ -110,4 +110,3 @@ Projekt ma odseparowane środowisko testowe i używa SQLite in-memory dla testó
 ```bash
 php artisan test
 ```
-
